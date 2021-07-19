@@ -3,32 +3,32 @@
   "short_name": "Outdoors Club",
   "icons": [
     {
-      "src": "/favicon-16x16.png",
+      "src": "/outdoorsLogo.png",
       "type": "image/png",
       "sizes": "16x16"
     },
     {
-      "src": "/favicon-32x32.png",
+      "src": "/outdoorsLogo.png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "/favicon-96x96.png",
+      "src": "/outdoorsLogo.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "/apple-touch-icon.png",
+      "src": "/outdoorsLogo.png",
       "type": "image/png",
       "sizes": "180x180"
     },
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "/outdoorsLogo.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-512x512.png",
+      "src": "/outdoorsLogo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
